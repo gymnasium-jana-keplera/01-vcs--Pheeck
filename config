@@ -1,0 +1,17 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+[remote "origin"]
+	url = https://github.com/gymnasium-jana-keplera/01-vcs--Pheeck
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[branch "master"]
+	remote = origin
+	merge = refs/heads/master
+[user]
+	name = Filip Kastl
+	email = xkasfi01@gjk.cz
+[branch "feature-1"]
+	remote = origin
+	merge = refs/heads/feature-1
