@@ -1,2 +1,3 @@
 #!/bin/bash
-seq -s "*" 1 300|bc
+seq -s "*" 1 400|bc
+
